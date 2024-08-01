@@ -1,6 +1,3 @@
-Bien sûr! Voici une description pour ton outil InstaBreak :
-
----
 
 **InstaBreak** est un outil puissant conçu pour effectuer des attaques par force brute sur des comptes Instagram. Il exploite des techniques avancées pour tenter de déchiffrer les mots de passe en testant rapidement un grand nombre de combinaisons possibles. L'outil est particulièrement utile pour les tests de sécurité et les audits, permettant aux administrateurs de vérifier la robustesse des mots de passe des utilisateurs et de renforcer la sécurité des comptes.
 
